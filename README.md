@@ -70,3 +70,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
+Use your browser to see what the data looks like when you fetch it.
+
+Whiteboard and make a plan of the app you want to build with the data.
+
+Create a react app, git init and push it to a new repo, then git clone.
+
+Together, build a new app people can use!!
+
+Specs:
+Starts with empty list
+
+Has search bar at the top
+
+Accepts a search term and calls the HN API with that term as the query
+
+Loads the list
+
+Has a form to search by date and/or author
